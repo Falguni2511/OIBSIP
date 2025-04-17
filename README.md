@@ -1,2 +1,2 @@
 # OIBSIP
-Tasks performed during the python internship tenue for Oasis Infobyte
+Tasks performed during the python internship tenure for Oasis Infobyte
